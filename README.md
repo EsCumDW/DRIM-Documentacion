@@ -12,7 +12,7 @@
 
 ## Descripción
 
-Aplicación que permite al usuario agregar o crear zonas y subzonas de lectura, así como portales que capturan información en tiempo real en diferentes ubicaciones. Proporciona la capacidad de leer o ver lo que los portales capturan en las distintas zonas y administrar o filtrar esos datos según las necesidades específicas. Facilita la reubicación de materiales, la aplicación de filtros de calidad o el rastreo de materiales que han pasado por puntos estratégicos. Incluye una interfaz intuitiva y funciones avanzadas de administración de datos para optimizar procesos y tomar decisiones informadas con base en la información capturada de cada zona.
+Esta es una aplicación de trazabilidad mediante tecnología RFID que permite al usuario agregar o crear zonas y subzonas de lectura, así como portales que capturan información en tiempo real en diferentes ubicaciones. Proporciona la capacidad de leer o ver lo que los portales RFID capturan en las distintas zonas y administrar o filtrar esos datos según las necesidades específicas. Facilita la reubicación de materiales, la aplicación de filtros de calidad o el rastreo de materiales que han pasado por puntos estratégicos. Incluye una interfaz intuitiva y funciones avanzadas de administración de datos para optimizar procesos y tomar decisiones informadas con base en la información capturada de cada zona.
 
 ## Tecnologías
 
