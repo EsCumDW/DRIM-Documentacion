@@ -47,16 +47,16 @@ npm -v
 ````
 **2.- Clonar el repositorio:** Abre una terminal o línea de comandos y ejecuta el siguiente comando para clonar el repositorio.
 
-***Nota:** Se recomienda clonar el frontend en una carpeta y el backend en otra carpeta. Esto para tener mejor control sobre los dos entornos y poder utilizar **Visual Studio Code para Front** y **Visual Studio para el Back**.*
+***Nota:** Se recomienda clonar la rama main y abrir la carpeta de Backend con Visual Studio y la carpeta e front con VS Code**.*
 
 ```bash
-git clone https://github.com/EmmanuelDataware/RFIDM.git
+git clone https://github.com/EmmanuelDataware/DRIM.git
 ```
 
 **3.- Navegar al directorio del repositorio:** Una vez completada la clonación, navega al directorio del repositorio recién clonado usando el comando cd.
 
 ```bash
-cd RFIDM
+cd DRIM
 ```
 **4.- Instalar dependencias:** Instala todas las dependencias necesarias para ejecutar la aplicación.
 
@@ -127,5 +127,5 @@ La licencia utilizada para este repositorio es [MIT License](LICENSE)
 ---
 
 ## Guia de contribución
-
-Proxima Implementación
+| [<img src="https://avatars.githubusercontent.com/u/157439725?v=4" width=115><br><sub>Emmanuel Arias Aguilar</sub>](https://github.com/EmmanuelDataware) |  [<img src="https://avatars.githubusercontent.com/u/126287665?v=4" width=115><br><sub>Esteban Cuadra Moreno</sub>]([https://github.com/guilhermeonrails](https://github.com/AdrianDataware)) |  [<img src="https://avatars.githubusercontent.com/u/142424657?v=4" width=115><br><sub>Adrián López Guevara</sub>](https://github.com/EsCumDW) |
+| :---: | :---: | :---: |
