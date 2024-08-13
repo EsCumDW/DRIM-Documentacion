@@ -127,5 +127,5 @@ La licencia utilizada para este repositorio es [MIT License](LICENSE)
 ---
 
 ## Guia de contribución
-| [<img src="https://avatars.githubusercontent.com/u/157439725?v=4" width=115><br><sub>Emmanuel Arias Aguilar</sub>](https://github.com/EmmanuelDataware) |  [<img src="https://avatars.githubusercontent.com/u/126287665?v=4" width=115><br><sub>Esteban Cuadra Moreno</sub>]([https://github.com/guilhermeonrails](https://github.com/AdrianDataware)) |  [<img src="https://avatars.githubusercontent.com/u/142424657?v=4" width=115><br><sub>Adrián López Guevara</sub>](https://github.com/EsCumDW) |
+| [<img src="https://avatars.githubusercontent.com/u/157439725?v=4" width=115><br><sub>Emmanuel Arias Aguilar</sub>](https://github.com/EmmanuelDataware) |  [<img src="https://avatars.githubusercontent.com/u/126287665?v=4" width=115><br><sub>Esteban Cuadra Moreno</sub>](https://github.com/EsCumDW) |  [<img src="https://avatars.githubusercontent.com/u/142424657?v=4" width=115><br><sub>Adrián López Guevara</sub>](https://github.com/AdrianDataware) |
 | :---: | :---: | :---: |
